@@ -1,2 +1,2 @@
 # SB
-Intermediate Jupyter Notebook in Python
+Intermediate Jupyter Notebook in Python analyzing Super Bowl-TV Datasets. 
